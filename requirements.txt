@@ -1,0 +1,16 @@
+jaclang
+jac-cloud
+jac-streamlit
+byllm
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+chromadb
+openai
+pypdf
+tiktoken
+requests
+mcp[cli]
+anyio
+streamlit
